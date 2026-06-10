@@ -1,4 +1,6 @@
-## Hi there 👋
+Jerry Thomas
+
+Senior Software Engineer | Technical Lead | Cloud-Native Solutions Architect
 
 <!--
 **jerrygth/jerrygth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
