@@ -1,18 +1,38 @@
 Jerry Thomas
 
-Senior Software Engineer | Technical Lead | Cloud-Native Solutions Architect
+**Senior Java Engineer | Technical Lead | Cloud-Native Solutions Architect**
 
-<!--
-**jerrygth/jerrygth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Java Engineer and Technical Lead with 20 years of experience designing, developing, and supporting enterprise and cloud-native applications.
 
-Here are some ideas to get you started:
+[LinkedIn](https://www.linkedin.com/in/jerrygth)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Core Competencies
+
+**Backend**  
+Java • Spring Boot • Spring Cloud • Node.js
+
+**Cloud & DevOps**  
+AWS (EC2, ECS, RDS, S3, CloudFront, Lambda) • Docker • Kubernetes • GitHub Actions • CI/CD • Prometheus + Grafana
+
+**Messaging & Data**  
+Apache Kafka • MongoDB • Cassandra • PostgresSql
+
+**Other**  
+React/Angular • Microservices • Security (Checkmarx, BlackDuck) • Agile/TDD • Mentoring
+
+## 📂 Featured Projects
+### [cloud-native-demo](https://github.com/jerrygth/cloud-native-demo)
+**Cloud-native micro services**
+
+Reference implementation demonstrating cloud-native deployment patterns on AWS and using docker compose.
+
+Technologies:
+Spring Cloud • Quarkus • React • ECS • RDS • S3 • CloudFront
+
+### [KafkaProcessor](https://github.com/jerrygth/KafkaProcessor)
+**Event-driven microservices platform with Kafka 4.0**
+
+Technologies:
+Java • Spring Boot • Apache Kafka • Kubernetes • Docker • GitHub Actions
+
+ **Certifications**: AWS Certified Developer – Associate, AWS Solutions Architect – Associate.
